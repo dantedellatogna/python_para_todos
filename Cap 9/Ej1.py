@@ -1,6 +1,6 @@
 import random
 
-archivo = open('python_para_todos\Cap 9\words.txt')
+archivo = open('.\Cap 9\words.txt')
 palabras = dict()
 
 for linea in archivo:
