@@ -1,4 +1,4 @@
-fname = 'python_para_todos\Cap 9\mbox-short.txt'
+fname = 'Cap 9\mbox-short.txt'
 
 file = open(fname)
 
